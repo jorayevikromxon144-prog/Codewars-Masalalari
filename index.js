@@ -1,3 +1,15 @@
+function opposite(number) {
+  return -number;
+}
+
+//===============================================================================
+
+function greet() {
+  return "hello world!";
+}
+
+//===============================================================================
+
 function removeSmallest(n) {
   let min = Math.min(...n);
   let res = [];
