@@ -1,14 +1,39 @@
-function summation(num) {
+// var min = function(list){
+//     return Math.min(...list);
+// }
 
-  let sum = 0;
+// var max = function(list){
+//     return Math.max(...list);
+// }
 
-  for (let i = 0; i <= num; i++) {
-    sum += i;
-  }
+// //===============================================================================
 
-  return sum;
+// function simpleMultiplication(number) {
+//     if (number % 2 === 0) {
+//         return number * 8;
+//     } else {
+//         return number * 9;
+//     }
+// }
 
-}
+// //===============================================================================
+
+// function makeUpperCase(str) {
+//     return str.toUpperCase();
+// }
+// //===============================================================================
+
+// function summation(num) {
+
+//   let sum = 0;
+
+//   for (let i = 0; i <= num; i++) {
+//     sum += i;
+//   }
+
+//   return sum;
+
+// }
 
 //===============================================================================
 
