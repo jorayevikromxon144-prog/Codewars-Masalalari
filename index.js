@@ -1,3 +1,15 @@
+// function stringToNumber(str) {
+//   return parseInt(str);
+// }
+// //===============================================================================
+
+// function noSpace(x) {
+//   return x.replaceAll(" ", "");
+// }
+
+// //===============================================================================
+
+
 // function squareSum(numbers) {
 //   let sum = 0;
 
