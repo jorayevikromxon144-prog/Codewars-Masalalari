@@ -1,3 +1,31 @@
+// function findShort(s) {
+//   let words = s.split(" ");
+//   let lengths = words.map((value) => value.length);
+
+//   return Math.min(...lengths);
+// }
+
+// //===============================================================================
+
+// function isSquare(n) {
+//   return Math.sqrt(n) % 1 === 0;
+// }
+
+// //===============================================================================
+
+// function getCount(str) {
+//   let count = 0;
+
+//   for (let Check of str) {
+//     if ("aeiou".includes(Check)) {
+//       count++;
+//     }
+//   }
+
+//   return count;
+// }
+
+//===============================================================================
 // function stringToNumber(str) {
 //   return parseInt(str);
 // }
